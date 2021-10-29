@@ -1,0 +1,37 @@
+2021-10-10 12:44:39,010 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-10 12:44:46,890 - com.BDDCucumber.Testbase.TestBase -INFO - Click on Submit Button
+2021-10-10 12:44:46,893 - com.BDDCucumber.Testbase.TestBase -INFO - Login is Success
+2021-10-10 12:44:46,894 - com.BDDCucumber.Testbase.TestBase -INFO - Count is :12
+2021-10-10 12:45:45,615 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-10 12:46:06,832 - com.BDDCucumber.Testbase.TestBase -INFO - Click on Submit Button
+2021-10-10 12:46:06,835 - com.BDDCucumber.Testbase.TestBase -INFO - Login is Success
+2021-10-10 12:46:06,836 - com.BDDCucumber.Testbase.TestBase -INFO - Count is :14
+2021-10-10 12:57:28,891 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-10 12:57:37,477 - com.BDDCucumber.Testbase.TestBase -INFO - Click on Submit Button
+2021-10-10 12:57:37,571 - com.BDDCucumber.Testbase.TestBase -INFO - Login is Success
+2021-10-10 12:57:37,574 - com.BDDCucumber.Testbase.TestBase -INFO - Count is :12
+2021-10-10 12:58:01,114 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-10 12:58:06,683 - com.BDDCucumber.Testbase.TestBase -INFO - Click on Submit Button
+2021-10-10 12:58:06,685 - com.BDDCucumber.Testbase.TestBase -INFO - Login is Success
+2021-10-10 12:58:06,687 - com.BDDCucumber.Testbase.TestBase -INFO - Count is :14
+2021-10-10 12:58:26,487 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-10 12:58:31,967 - com.BDDCucumber.Testbase.TestBase -INFO - Click on Submit Button
+2021-10-10 12:58:31,968 - com.BDDCucumber.Testbase.TestBase -INFO - Login is Success
+2021-10-10 12:58:31,969 - com.BDDCucumber.Testbase.TestBase -INFO - Count is :12
+2021-10-10 12:58:51,572 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-10 12:58:57,167 - com.BDDCucumber.Testbase.TestBase -INFO - Click on Submit Button
+2021-10-10 12:58:57,168 - com.BDDCucumber.Testbase.TestBase -INFO - Login is Success
+2021-10-10 12:58:57,170 - com.BDDCucumber.Testbase.TestBase -INFO - Count is :14
+2021-10-10 19:05:11,305 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-10 19:11:18,641 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-10 19:19:16,067 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-10 19:45:26,108 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-10 20:18:00,523 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-10 20:37:44,349 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-10 22:29:41,032 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-22 20:21:11,006 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-29 13:17:00,362 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-29 13:17:17,090 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-29 13:18:01,757 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-29 13:18:14,276 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched
+2021-10-29 13:18:22,103 - com.BDDCucumber.Testbase.TestBase -INFO - Browser launched

@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="spring-boot" parallel="tests" thread-count="2">
+    <test name="LoginTest">
+        <classes>
+            <class name="com.TestRunner.CucumberRunner" />
+        </classes>
+    </test>
+   <!--<test name="RegisterTest">
+        <classes>
+            <class name="com.BDDCucumber.PageObjects.RegisterPage" />
+        </classes>
+    </test>
+
+     <test name="test-3">
+        <classes>
+            <class name="com.BDDCucumber.PageObjects.RegisterPage" />
+        </classes>
+    </test>-->
+</suite>
